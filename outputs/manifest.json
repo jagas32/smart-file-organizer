@@ -1,0 +1,26 @@
+{
+  "run_id": "2026-06-06T15:33:00.682430",
+  "incremental": false,
+  "stages": {
+    "classify": {
+      "status": "completed",
+      "output": "outputs/classification.json",
+      "errors": []
+    },
+    "organize": {
+      "status": "completed",
+      "output": "outputs/organize-log.json",
+      "errors": []
+    },
+    "summarize": {
+      "status": "completed",
+      "output": "outputs/report.md",
+      "errors": []
+    }
+  },
+  "totals": {
+    "files_seen": 10,
+    "files_organized": 9,
+    "files_summarized": 10
+  }
+}

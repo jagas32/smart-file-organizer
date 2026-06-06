@@ -1,0 +1,132 @@
+{
+  "generated_at": "2026-06-06T15:33:00.681632",
+  "source_dir": "inputs/",
+  "files": [
+    {
+      "path": "inputs/IMG_4821.png",
+      "size_bytes": 15570,
+      "sha256": "cc6312382082e2a43b033b73cc6214f334012f5063bd9a66d51247f5e55fbacd",
+      "category": "images",
+      "extension": "png",
+      "date": "2026-06",
+      "date_source": "mtime",
+      "topic": "unknown",
+      "confidence": "low"
+    },
+    {
+      "path": "inputs/Screenshot 2025-11-02 at 3.45.12 PM.png",
+      "size_bytes": 14900,
+      "sha256": "841c284f2c88af3994d9cbaa0a807e8b8dc60f0e9ee38c199f2d50bc00fe6e2a",
+      "category": "images",
+      "extension": "png",
+      "date": "2025-11",
+      "date_source": "filename",
+      "topic": "unknown",
+      "confidence": "low"
+    },
+    {
+      "path": "inputs/budget_2025.csv",
+      "size_bytes": 604,
+      "sha256": "95039c812ad32be7bd9f349dafeddd9347e1b6c34b4ee31df450c67c6048d826",
+      "category": "spreadsheets",
+      "extension": "csv",
+      "date": "2025",
+      "date_source": "filename-year",
+      "topic": "budget",
+      "confidence": "high"
+    },
+    {
+      "path": "inputs/document_final.pdf",
+      "size_bytes": 1502,
+      "sha256": "750fd0a7e63d9d38057e1a3ba1c9b26b55d325387ae414259ca80d46ff29a765",
+      "category": "documents",
+      "extension": "pdf",
+      "date": "2025-09",
+      "date_source": "content",
+      "topic": "lease",
+      "confidence": "high"
+    },
+    {
+      "path": "inputs/export-data-FINAL-final (1).csv",
+      "size_bytes": 347,
+      "sha256": "5af41b9947f47cd7978c8f6c81dfb59f0dbddf29688a5c11680ecf45e235b468",
+      "category": "spreadsheets",
+      "extension": "csv",
+      "date": "2025-11",
+      "date_source": "content",
+      "topic": "fitness",
+      "confidence": "high"
+    },
+    {
+      "path": "inputs/grandmas_lasagna.txt",
+      "size_bytes": 524,
+      "sha256": "edc0ea830f3568978ad84bc4c1340b8a6f864dc0a4fd27752c7f9ed9c50bb9d2",
+      "category": "documents",
+      "extension": "txt",
+      "date": "2026-06",
+      "date_source": "mtime",
+      "topic": "recipes",
+      "confidence": "high"
+    },
+    {
+      "path": "inputs/invoice_acme_2024-03 copy.pdf",
+      "size_bytes": 1406,
+      "sha256": "c041f252033b9cce76918545b4877c209a252bb1a9c1914da610ce211e498e0d",
+      "category": "documents",
+      "extension": "pdf",
+      "date": "2024-03",
+      "date_source": "filename",
+      "topic": "invoices",
+      "confidence": "high"
+    },
+    {
+      "path": "inputs/invoice_acme_2024-03.pdf",
+      "size_bytes": 1406,
+      "sha256": "c041f252033b9cce76918545b4877c209a252bb1a9c1914da610ce211e498e0d",
+      "category": "documents",
+      "extension": "pdf",
+      "date": "2024-03",
+      "date_source": "filename",
+      "topic": "invoices",
+      "confidence": "high",
+      "duplicate_of": "inputs/invoice_acme_2024-03 copy.pdf"
+    },
+    {
+      "path": "inputs/meeting notes jan.txt",
+      "size_bytes": 429,
+      "sha256": "0f9dce6362622c1fda9db106d78414ae0f1aec11a7313844a53c81436973b7fa",
+      "category": "documents",
+      "extension": "txt",
+      "date": "2026-01",
+      "date_source": "content",
+      "topic": "work-meetings",
+      "confidence": "high"
+    },
+    {
+      "path": "inputs/notes.txt",
+      "size_bytes": 319,
+      "sha256": "bcc454e60b41113c1db228505af282a45771b6432272465aa78dbb5075e1a03b",
+      "category": "documents",
+      "extension": "txt",
+      "date": "2026-06",
+      "date_source": "mtime",
+      "topic": "taxes",
+      "confidence": "high"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "by_category": {
+      "images": 2,
+      "spreadsheets": 2,
+      "documents": 6
+    },
+    "low_confidence": [
+      "inputs/IMG_4821.png",
+      "inputs/Screenshot 2025-11-02 at 3.45.12 PM.png"
+    ],
+    "duplicates": [
+      "inputs/invoice_acme_2024-03.pdf"
+    ]
+  }
+}

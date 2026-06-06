@@ -1,0 +1,249 @@
+{
+  "generated_at": "2026-06-06T15:35:26.618287",
+  "files": [
+    {
+      "path": "organized/documents/2024-03/invoices/invoice_acme_2024-03.pdf",
+      "sha256": "c041f252033b9cce76918545b4877c209a252bb1a9c1914da610ce211e498e0d",
+      "category": "documents",
+      "date": "2024-03",
+      "topic": "invoices",
+      "summary": "Invoice #INV-2024-0312 from Acme Web Services LLC to Jason Gallagher, dated March 12, 2024, totaling $474.00 for annual website hosting, three domain renewals, and an SSL certificate. Net 30 terms, due April 11, 2024.",
+      "keywords": [
+        "invoice",
+        "hosting",
+        "acme"
+      ],
+      "entities": {
+        "dates": [
+          "2024-03-12",
+          "2024-04-11"
+        ],
+        "people": [
+          "Jason Gallagher"
+        ],
+        "orgs": [
+          "Acme Web Services LLC"
+        ]
+      },
+      "flags": [
+        "has-exact-duplicate-in-inputs"
+      ]
+    },
+    {
+      "path": "organized/documents/2025-09/lease/document_final.pdf",
+      "sha256": "750fd0a7e63d9d38057e1a3ba1c9b26b55d325387ae414259ca80d46ff29a765",
+      "category": "documents",
+      "date": "2025-09",
+      "topic": "lease",
+      "summary": "12-month residential lease between Maplewood Property Management and Jason Gallagher for 482 Birchwood Lane Apt 2B, Columbus OH, Sept 2025-Aug 2026. Rent $1,650/mo, $1,650 deposit, one cat allowed with $200 fee. Filename is uninformative; consider renaming to lease_birchwood_2025.pdf.",
+      "keywords": [
+        "lease",
+        "rental",
+        "housing"
+      ],
+      "entities": {
+        "dates": [
+          "2025-09-01",
+          "2026-08-31"
+        ],
+        "people": [
+          "Jason Gallagher"
+        ],
+        "orgs": [
+          "Maplewood Property Management"
+        ]
+      },
+      "flags": [
+        "poorly-named",
+        "contains-pii"
+      ]
+    },
+    {
+      "path": "organized/documents/2026-01/work-meetings/meeting notes jan.txt",
+      "sha256": "0f9dce6362622c1fda9db106d78414ae0f1aec11a7313844a53c81436973b7fa",
+      "category": "documents",
+      "date": "2026-01",
+      "topic": "work-meetings",
+      "summary": "Team sync notes from January 14, 2026 (Jason, Priya, Marcus, Dana): Q1 website redesign kickoff moved to Jan 26, analytics migration 80% done but blocked on API keys, billing bug hotfix shipping Friday. Action item: Jason to send print vendor shortlist by end of week.",
+      "keywords": [
+        "meeting",
+        "team-sync",
+        "action-items"
+      ],
+      "entities": {
+        "dates": [
+          "2026-01-14",
+          "2026-01-21"
+        ],
+        "people": [
+          "Jason",
+          "Priya",
+          "Marcus",
+          "Dana"
+        ],
+        "orgs": []
+      },
+      "flags": []
+    },
+    {
+      "path": "organized/documents/2026-06/taxes/notes.txt",
+      "sha256": "bcc454e60b41113c1db228505af282a45771b6432272465aa78dbb5075e1a03b",
+      "category": "documents",
+      "date": "2026-06",
+      "topic": "taxes",
+      "summary": "Personal checklist for 2025 tax prep: W-2 received, awaiting 1099-INT, charity receipts totaling $390, open question on home-office deduction, reminder to add $2,000 IRA contribution before April 15. Vague filename; consider tax-prep-2025.txt.",
+      "keywords": [
+        "taxes",
+        "checklist",
+        "ira"
+      ],
+      "entities": {
+        "dates": [
+          "2026-04-15"
+        ],
+        "people": [
+          "Deb"
+        ],
+        "orgs": []
+      },
+      "flags": [
+        "poorly-named",
+        "contains-pii"
+      ]
+    },
+    {
+      "path": "organized/documents/2026-06/recipes/grandmas_lasagna.txt",
+      "sha256": "edc0ea830f3568978ad84bc4c1340b8a6f864dc0a4fd27752c7f9ed9c50bb9d2",
+      "category": "documents",
+      "date": "2026-06",
+      "topic": "recipes",
+      "summary": "Family lasagna recipe serving 8: beef and Italian sausage sauce, ricotta-egg-parmesan layer with a nutmeg 'secret ingredient', baked 50 minutes at 375F with a mandatory 15-minute rest.",
+      "keywords": [
+        "recipe",
+        "lasagna",
+        "italian"
+      ],
+      "entities": {
+        "dates": [],
+        "people": [
+          "Grandma Rosa"
+        ],
+        "orgs": []
+      },
+      "flags": []
+    },
+    {
+      "path": "organized/spreadsheets/2025/budget/budget_2025.csv",
+      "sha256": "95039c812ad32be7bd9f349dafeddd9347e1b6c34b4ee31df450c67c6048d826",
+      "category": "spreadsheets",
+      "date": "2025",
+      "topic": "budget",
+      "summary": "Monthly household budget for all 12 months of 2025 across 8 columns: fixed rent ($1,650), car ($312), subscriptions ($64.97), and savings ($500), with variable groceries (~$420-610), utilities, and dining.",
+      "keywords": [
+        "budget",
+        "household",
+        "monthly"
+      ],
+      "entities": {
+        "dates": [
+          "2025"
+        ],
+        "people": [],
+        "orgs": []
+      },
+      "flags": [
+        "contains-pii"
+      ]
+    },
+    {
+      "path": "organized/spreadsheets/2025-11/fitness/export-data-FINAL-final (1).csv",
+      "sha256": "5af41b9947f47cd7978c8f6c81dfb59f0dbddf29688a5c11680ecf45e235b468",
+      "category": "spreadsheets",
+      "date": "2025-11",
+      "topic": "fitness",
+      "summary": "Workout log with 8 sessions from Nov 3-19, 2025: runs up to 6 miles, lifting, biking, and yoga, with duration, distance, and calorie columns. Filename suggests a messy export; consider workout-log-2025-11.csv.",
+      "keywords": [
+        "fitness",
+        "workouts",
+        "running"
+      ],
+      "entities": {
+        "dates": [
+          "2025-11-03",
+          "2025-11-19"
+        ],
+        "people": [],
+        "orgs": []
+      },
+      "flags": [
+        "poorly-named"
+      ]
+    },
+    {
+      "path": "organized/images/2025-11/Screenshot 2025-11-02 at 3.45.12 PM.png",
+      "sha256": "841c284f2c88af3994d9cbaa0a807e8b8dc60f0e9ee38c199f2d50bc00fe6e2a",
+      "category": "images",
+      "date": "2025-11",
+      "topic": "unknown",
+      "summary": "900x560 screenshot dated Nov 2, 2025 from the filename. Content not analyzed (image OCR out of scope); appears to be an app/browser window capture.",
+      "keywords": [
+        "screenshot"
+      ],
+      "entities": {
+        "dates": [
+          "2025-11-02"
+        ],
+        "people": [],
+        "orgs": []
+      },
+      "flags": [
+        "unreviewed-image"
+      ]
+    },
+    {
+      "path": "organized/images/2026-06/IMG_4821.png",
+      "sha256": "cc6312382082e2a43b033b73cc6214f334012f5063bd9a66d51247f5e55fbacd",
+      "category": "images",
+      "date": "2026-06",
+      "topic": "unknown",
+      "summary": "900x560 image with a camera-roll style name and no date or topic signals; window-style capture. Needs manual review to categorize.",
+      "keywords": [
+        "screenshot",
+        "unsorted"
+      ],
+      "entities": {
+        "dates": [],
+        "people": [],
+        "orgs": []
+      },
+      "flags": [
+        "unreviewed-image",
+        "possible-sensitive-content"
+      ]
+    },
+    {
+      "path": "inputs/invoice_acme_2024-03 copy.pdf",
+      "sha256": "c041f252033b9cce76918545b4877c209a252bb1a9c1914da610ce211e498e0d",
+      "category": "documents",
+      "date": "2024-03",
+      "topic": "invoices",
+      "summary": "Byte-identical duplicate of invoice_acme_2024-03.pdf (matching SHA-256). Not copied to organized/ per user decision; safe to delete manually from inputs/.",
+      "keywords": [
+        "invoice",
+        "duplicate"
+      ],
+      "entities": {
+        "dates": [
+          "2024-03-12"
+        ],
+        "people": [],
+        "orgs": [
+          "Acme Web Services LLC"
+        ]
+      },
+      "flags": [
+        "exact-duplicate"
+      ]
+    }
+  ]
+}

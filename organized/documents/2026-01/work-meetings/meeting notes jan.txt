@@ -1,0 +1,11 @@
+Team Sync - January 14, 2026
+
+Attendees: Jason, Priya, Marcus, Dana
+
+- Q1 website redesign kickoff moved to Jan 26 (Dana owns timeline)
+- Priya: analytics migration to new dashboard ~80% done, blocked on API keys
+- Marcus raised the billing bug affecting ~40 customers; hotfix shipping Friday
+- Budget review pushed to February meeting
+- ACTION: Jason to send vendor shortlist for print materials by EOW
+
+Next sync: Jan 21, 10am

@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-06-06T15:35:26.631115",
+  "folders": [
+    {
+      "path": "organized/documents/2024-03/invoices/",
+      "file_count": 1,
+      "total_bytes": 1406,
+      "files": [
+        "invoice_acme_2024-03.pdf"
+      ]
+    },
+    {
+      "path": "organized/documents/2025-09/lease/",
+      "file_count": 1,
+      "total_bytes": 1502,
+      "files": [
+        "document_final.pdf"
+      ]
+    },
+    {
+      "path": "organized/documents/2026-01/work-meetings/",
+      "file_count": 1,
+      "total_bytes": 429,
+      "files": [
+        "meeting notes jan.txt"
+      ]
+    },
+    {
+      "path": "organized/documents/2026-06/recipes/",
+      "file_count": 1,
+      "total_bytes": 524,
+      "files": [
+        "grandmas_lasagna.txt"
+      ]
+    },
+    {
+      "path": "organized/documents/2026-06/taxes/",
+      "file_count": 1,
+      "total_bytes": 319,
+      "files": [
+        "notes.txt"
+      ]
+    },
+    {
+      "path": "organized/images/2025-11/",
+      "file_count": 1,
+      "total_bytes": 14900,
+      "files": [
+        "Screenshot 2025-11-02 at 3.45.12 PM.png"
+      ]
+    },
+    {
+      "path": "organized/images/2026-06/",
+      "file_count": 1,
+      "total_bytes": 15570,
+      "files": [
+        "IMG_4821.png"
+      ]
+    },
+    {
+      "path": "organized/spreadsheets/2025-11/fitness/",
+      "file_count": 1,
+      "total_bytes": 347,
+      "files": [
+        "export-data-FINAL-final (1).csv"
+      ]
+    },
+    {
+      "path": "organized/spreadsheets/2025/budget/",
+      "file_count": 1,
+      "total_bytes": 604,
+      "files": [
+        "budget_2025.csv"
+      ]
+    }
+  ]
+}

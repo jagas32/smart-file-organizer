@@ -1,0 +1,75 @@
+{
+  "planned_at": "2026-06-06T15:33:14.272097",
+  "operations": [
+    {
+      "src": "inputs/IMG_4821.png",
+      "dest": "organized/images/2026-06/IMG_4821.png",
+      "duplicate": false,
+      "confidence": "low"
+    },
+    {
+      "src": "inputs/Screenshot 2025-11-02 at 3.45.12 PM.png",
+      "dest": "organized/images/2025-11/Screenshot 2025-11-02 at 3.45.12 PM.png",
+      "duplicate": false,
+      "confidence": "low"
+    },
+    {
+      "src": "inputs/budget_2025.csv",
+      "dest": "organized/spreadsheets/2025/budget/budget_2025.csv",
+      "duplicate": false,
+      "confidence": "high"
+    },
+    {
+      "src": "inputs/document_final.pdf",
+      "dest": "organized/documents/2025-09/lease/document_final.pdf",
+      "duplicate": false,
+      "confidence": "high"
+    },
+    {
+      "src": "inputs/export-data-FINAL-final (1).csv",
+      "dest": "organized/spreadsheets/2025-11/fitness/export-data-FINAL-final (1).csv",
+      "duplicate": false,
+      "confidence": "high"
+    },
+    {
+      "src": "inputs/grandmas_lasagna.txt",
+      "dest": "organized/documents/2026-06/recipes/grandmas_lasagna.txt",
+      "duplicate": false,
+      "confidence": "high"
+    },
+    {
+      "src": "inputs/invoice_acme_2024-03 copy.pdf",
+      "dest": "organized/documents/2024-03/invoices/invoice_acme_2024-03 copy.pdf",
+      "duplicate": true,
+      "confidence": "high"
+    },
+    {
+      "src": "inputs/invoice_acme_2024-03.pdf",
+      "dest": "organized/documents/2024-03/invoices/invoice_acme_2024-03.pdf",
+      "duplicate": true,
+      "confidence": "high"
+    },
+    {
+      "src": "inputs/meeting notes jan.txt",
+      "dest": "organized/documents/2026-01/work-meetings/meeting notes jan.txt",
+      "duplicate": false,
+      "confidence": "high"
+    },
+    {
+      "src": "inputs/notes.txt",
+      "dest": "organized/documents/2026-06/taxes/notes.txt",
+      "duplicate": false,
+      "confidence": "high"
+    }
+  ],
+  "warnings": {
+    "duplicate_pair": [
+      "inputs/invoice_acme_2024-03.pdf",
+      "inputs/invoice_acme_2024-03 copy.pdf"
+    ],
+    "low_confidence": [
+      "inputs/IMG_4821.png",
+      "inputs/Screenshot 2025-11-02 at 3.45.12 PM.png"
+    ]
+  }
+}

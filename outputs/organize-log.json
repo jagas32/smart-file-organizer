@@ -1,0 +1,72 @@
+{
+  "executed_at": "2026-06-06T15:34:53.006120",
+  "operations": [
+    {
+      "src": "inputs/IMG_4821.png",
+      "dest": "organized/images/2026-06/IMG_4821.png",
+      "action": "copied",
+      "verified": true
+    },
+    {
+      "src": "inputs/Screenshot 2025-11-02 at 3.45.12 PM.png",
+      "dest": "organized/images/2025-11/Screenshot 2025-11-02 at 3.45.12 PM.png",
+      "action": "copied",
+      "verified": true
+    },
+    {
+      "src": "inputs/budget_2025.csv",
+      "dest": "organized/spreadsheets/2025/budget/budget_2025.csv",
+      "action": "copied",
+      "verified": true
+    },
+    {
+      "src": "inputs/document_final.pdf",
+      "dest": "organized/documents/2025-09/lease/document_final.pdf",
+      "action": "copied",
+      "verified": true
+    },
+    {
+      "src": "inputs/export-data-FINAL-final (1).csv",
+      "dest": "organized/spreadsheets/2025-11/fitness/export-data-FINAL-final (1).csv",
+      "action": "copied",
+      "verified": true
+    },
+    {
+      "src": "inputs/grandmas_lasagna.txt",
+      "dest": "organized/documents/2026-06/recipes/grandmas_lasagna.txt",
+      "action": "copied",
+      "verified": true
+    },
+    {
+      "src": "inputs/invoice_acme_2024-03 copy.pdf",
+      "dest": null,
+      "action": "skipped",
+      "reason": "exact-duplicate (user confirmed skip)",
+      "verified": true
+    },
+    {
+      "src": "inputs/invoice_acme_2024-03.pdf",
+      "dest": "organized/documents/2024-03/invoices/invoice_acme_2024-03.pdf",
+      "action": "copied",
+      "verified": true
+    },
+    {
+      "src": "inputs/meeting notes jan.txt",
+      "dest": "organized/documents/2026-01/work-meetings/meeting notes jan.txt",
+      "action": "copied",
+      "verified": true
+    },
+    {
+      "src": "inputs/notes.txt",
+      "dest": "organized/documents/2026-06/taxes/notes.txt",
+      "action": "copied",
+      "verified": true
+    }
+  ],
+  "stats": {
+    "copied": 9,
+    "skipped": 1,
+    "renamed": 0,
+    "errors": 0
+  }
+}
